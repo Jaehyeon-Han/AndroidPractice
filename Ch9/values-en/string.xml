@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="find">
+        Find your phone contacts on Messenger
+    </string>
+    <string name="app_name">Ch9_Resource</string>
+    <string name="desc">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dictum, lectus a suscipit accumsan, justo ipsum euismod dolor, et pharetra libero turpis vel ex. Ut bibendum ac enim placerat faucibus. Pellentesque at efficitur lectus, in dignissim nunc. Nullam augue velit, tincidunt sit amet justo a, volutpat rhoncus neque. Nam facilisis leo non porttitor maximus. Vestibulum sed nulla leo. Cras at ex quis risus suscipit efficitur id in tortor. Aliquam gravida sapien mauris, a dignissim est pharetra vel.
+    </string>
+    <string name="turnOn">turn on</string>
+    <string name="later">Not Now</string>
+</resources>
